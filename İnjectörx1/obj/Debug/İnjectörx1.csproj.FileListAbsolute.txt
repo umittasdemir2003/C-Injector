@@ -1,0 +1,10 @@
+C:\Users\cheat_teswlf3\source\repos\İnjectörx1\İnjectörx1\bin\Debug\İnjectörx1.exe.config
+C:\Users\cheat_teswlf3\source\repos\İnjectörx1\İnjectörx1\bin\Debug\İnjectörx1.exe
+C:\Users\cheat_teswlf3\source\repos\İnjectörx1\İnjectörx1\bin\Debug\İnjectörx1.pdb
+C:\Users\cheat_teswlf3\source\repos\İnjectörx1\İnjectörx1\obj\Debug\İnjectörx1.Form1.resources
+C:\Users\cheat_teswlf3\source\repos\İnjectörx1\İnjectörx1\obj\Debug\İnjectörx1.Properties.Resources.resources
+C:\Users\cheat_teswlf3\source\repos\İnjectörx1\İnjectörx1\obj\Debug\İnjectörx1.csproj.GenerateResource.cache
+C:\Users\cheat_teswlf3\source\repos\İnjectörx1\İnjectörx1\obj\Debug\İnjectörx1.csproj.CoreCompileInputs.cache
+C:\Users\cheat_teswlf3\source\repos\İnjectörx1\İnjectörx1\obj\Debug\İnjectörx1.exe
+C:\Users\cheat_teswlf3\source\repos\İnjectörx1\İnjectörx1\obj\Debug\İnjectörx1.pdb
+C:\Users\cheat_teswlf3\source\repos\İnjectörx1\İnjectörx1\obj\Debug\İnjectörx1.csprojAssemblyReference.cache
